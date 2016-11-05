@@ -4,8 +4,6 @@
 # coding: utf8
 
 import math
-import sys
-import unicodedata
 
 j = 0 #Zaehler fuer die Rechenschritte
 
