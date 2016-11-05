@@ -31,4 +31,4 @@ for i in range(1,20):
         else:
             print("")
         j = 0
-print("Die hoechste Anzahl an Schritten lautet " + str(k) + " bei Zahl mit der Nummer " + str(q) + ".")
+print("Die hoechste Anzahl an Schritten lautet " + str(k) + " bei Zahl " + str(q) + ".")
